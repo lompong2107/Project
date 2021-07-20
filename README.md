@@ -1,7 +1,7 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{โปรเจ็คจบปริญญาตรี}</h1>
+<h1 align="center">โปรเจ็คจบปริญญาตรี</h1>
 
 <!-- TABLE OF CONTENTS -->
 
