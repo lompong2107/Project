@@ -9,7 +9,6 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 
 <!-- OVERVIEW -->
 
@@ -24,9 +23,5 @@
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - [Unity]
 - [Arduino IDE]
-
-## Features
