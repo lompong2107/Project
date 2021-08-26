@@ -9,6 +9,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
+  - [Language](#language)
 
 <!-- OVERVIEW -->
 
@@ -25,3 +26,8 @@
 
 - [Unity]
 - [Arduino IDE]
+
+### Language
+
+- [C#]
+- [C++]
